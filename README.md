@@ -7,7 +7,7 @@
 # Project By Jonathan Pratama - Universitas Nasional
 Untuk Ujian Praktek BNSP
 
-# Berikut Link Publish Vercel
+# Link Publish Vercel
 https://beasiswa-form.vercel.app/
 
 # Note
