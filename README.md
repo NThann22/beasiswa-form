@@ -5,4 +5,4 @@
 - Buka terminal dan jalankan "npm run dev" untuk menjalankan websitenya di local
 
 # Project By Jonathan Pratama - Universitas Nasional
-# Untuk Ujian Praktek BNSP
+Untuk Ujian Praktek BNSP
